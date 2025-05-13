@@ -8,17 +8,13 @@ Este projeto foi feito com o objetivo de demonstrar domínio em HTML e CSS, brin
 
 - Layout responsivo e moderno
 - Animações suaves
-- Depoimentos fictícios (e reais!)
+- Depoimentos fictícios
 - Ícones com Font Awesome
 - Estilo limpo e agradável visualmente
 
 ## 🚀 Veja o site publicado
 
 👉 [Acesse aqui](https://tainanjose.github.io/Por-que-me-contratar-/)
-
-## 📸 Captura de tela
-
-![preview do site](./imagens/preview.png)
 
 ## 🛠️ Tecnologias utilizadas
 
